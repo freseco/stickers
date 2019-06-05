@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "The Gonnas Stickers Pack",
+      "name": "The Gonnas Boy Stickers Pack",
       "publisher": "Ramon",
       "tray_image_file": "tray_Sorprendido2.png",
       "publisher_email":"",
@@ -107,6 +107,111 @@
         },
         {
           "image_file": "BOY_0023_SORPRESA-ALEGRE.webp",
+          "emojis": ["😮"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "The Gonnas Girl Stickers Pack",
+      "publisher": "Ramon",
+      "tray_image_file": "sticker_girl_0018_SONRIENTE2.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "android_play_store_link": "",
+      "stickers": [
+        {
+          "image_file": "sticker_girl_0001_LLANTO.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "sticker_girl_0002_ASUSTADA.webp",
+          "emojis": ["😱"]
+        },
+        {
+          "image_file": "sticker_girl_0003_VOMITO.webp",
+          "emojis": ["🤮"]
+        },
+        {
+          "image_file": "sticker_girl_0004_PENSANDO.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "sticker_girl_0005_BESOS.webp",
+          "emojis": ["😘"]
+        },
+        {
+          "image_file": "sticker_girl_0006_RICO.webp",
+          "emojis": ["😋"]
+        },
+        {
+          "image_file": "sticker_girl_0007_SONRISA4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "sticker_girl_0008_SORPENDIDA2.webp",
+          "emojis": ["😲"]
+        },
+        {
+          "image_file": "sticker_girl_0009_ENFADO.webp",
+          "emojis": ["😠"]
+        },
+        {
+          "image_file": "sticker_girl_0010_BURLA2.webp",
+          "emojis": ["😛"]
+        },
+        {
+          "image_file": "sticker_girl_0011_BURLA1.webp",
+          "emojis": ["😜"]
+        },
+        {
+          "image_file": "sticker_girl_0012_PARTIRSE-de-RISA.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sticker_girl_0013_SORPRENDIDA.webp",
+          "emojis": ["😮"]
+        },
+        {
+          "image_file": "sticker_girl_0014_SIN-BESO.webp",
+          "emojis": ["😗"]
+        },
+        {
+          "image_file": "sticker_girl_0015_EMPOLLONA.webp",
+          "emojis": ["🤓"]
+        },
+        {
+          "image_file": "sticker_girl_0016_COOL.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "sticker_girl_0017_ENAMORADA.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "sticker_girl_0018_SONRIENTE2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "sticker_girl_0019_SONRIENTE.webp",
+          "emojis": ["😃"]
+        },
+        {
+          "image_file": "sticker_girl_0020_TRISTE.webp",
+          "emojis": ["😒"]
+        },
+        {
+          "image_file": "sticker_girl_0021_APURADA2.webp",
+          "emojis": ["😬"]
+        },
+        {
+          "image_file": "sticker_girl_0022_APURADA1.webp",
+          "emojis": ["😰"]
+        },
+        {
+          "image_file": "sticker_girl_0023_ALEGRE.webp",
           "emojis": ["😮"]
         }
       ]
