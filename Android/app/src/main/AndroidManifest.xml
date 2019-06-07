@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.thegonnas.samplestickerapp">
+    package="com.thegonnasgroup.thegonnasemojis">
 
     <application
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:name="com.thegonnas.samplestickerapp.StickerApplication"
+        android:name="com.thegonnasgroup.thegonnasemojis.StickerApplication"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.thegonnas.samplestickerapp.EntryActivity">
+        <activity android:name="com.thegonnasgroup.thegonnasemojis.EntryActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.thegonnas.samplestickerapp.StickerPackListActivity"/>
+            android:name="com.thegonnasgroup.thegonnasemojis.StickerPackListActivity"/>
         <activity
-            android:name="com.thegonnas.samplestickerapp.StickerPackDetailsActivity"
-            android:parentActivityName="com.thegonnas.samplestickerapp.StickerPackListActivity"
+            android:name="com.thegonnasgroup.thegonnasemojis.StickerPackDetailsActivity"
+            android:parentActivityName="com.thegonnasgroup.thegonnasemojis.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.thegonnas.samplestickerapp.StickerPackListActivity" />
+                android:value="com.thegonnasgroup.thegonnasemojis.StickerPackListActivity" />
         </activity>
         <activity
-            android:name="com.thegonnas.samplestickerapp.StickerPackInfoActivity"
+            android:name="com.thegonnasgroup.thegonnasemojis.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName="com.thegonnas.samplestickerapp.StickerPackDetailsActivity"
+            android:parentActivityName="com.thegonnasgroup.thegonnasemojis.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.thegonnas.samplestickerapp.StickerPackDetailsActivity" />
+                android:value="com.thegonnasgroup.thegonnasemojis.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name="com.thegonnas.samplestickerapp.StickerContentProvider"
+            android:name="com.thegonnasgroup.thegonnasemojis.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"
