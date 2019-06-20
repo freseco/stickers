@@ -6,7 +6,7 @@
       "identifier": "1",
       "name": "The Gonnas emojis",
       "publisher": "The Gonnas Group",
-      "tray_image_file": "tray_Sorprendido2.png",
+      "tray_image_file": "BOY_0009_SONRIENTE2.png",
       "publisher_email":"thegonnas@thegonnas.com",
       "publisher_website": "https://www.thegonnasgroup.com/",
       "privacy_policy_website": "",
@@ -108,6 +108,10 @@
         {
           "image_file": "BOY_0023_SORPRESA-ALEGRE.webp",
           "emojis": ["😮"]
+        },
+        {
+          "image_file": "THE_GONNAS_LOGO_logo_512x.webp",
+          "emojis": ["😍"]
         }
       ]
     },
@@ -115,7 +119,7 @@
       "identifier": "2",
       "name": "The Gonnas emojis",
       "publisher": "The Gonnas Group",
-      "tray_image_file": "sticker_girl_0018_SONRIENTE2.png",
+      "tray_image_file": "sticker_girl_0017_ENAMORADA.webp",
       "publisher_email":"thegonnas@thegonnas.com",
       "publisher_website": "https://www.thegonnasgroup.com/",
       "privacy_policy_website": "",
@@ -192,7 +196,7 @@
         },
         {
           "image_file": "sticker_girl_0018_SONRIENTE2.webp",
-          "emojis": ["😄","😀"]
+          "emojis": ["😍","♥"]
         },
         {
           "image_file": "sticker_girl_0019_SONRIENTE.webp",
@@ -213,6 +217,10 @@
         {
           "image_file": "sticker_girl_0023_ALEGRE.webp",
           "emojis": ["😮"]
+        },
+        {
+          "image_file": "THE_GONNAS_LOGO_logo_512x.webp",
+          "emojis": ["😍"]
         }
       ]
     }
